@@ -1,2 +1,3 @@
 # hello-world
-This is Stoney's repository
+
+Hey peoples I like all things batman, love anime and playing games.
